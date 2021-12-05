@@ -16,6 +16,6 @@ https://colab.research.google.com/drive/1tRkVumY4AxH6QDqCiBn1djsQj5o8Hj4K?authus
 # Intersecting clues:
 https://colab.research.google.com/drive/1THnMBgTeQeMKNmE0lNHCls_67y5DV4NU?authuser=1#scrollTo=z9JwlCcvoEff
 
-# Intersecting clues using multiple candidate answers:
-
+# 2 stage model using intersecting clues using multiple candidate answers:
+https://colab.research.google.com/drive/1B7uV_WlVkvam9bnKnbOWrAVx7Hb8siDv?authuser=1
 
