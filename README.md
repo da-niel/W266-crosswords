@@ -9,7 +9,6 @@ https://colab.research.google.com/drive/1mD__sfkHNhov4wqvVwYnjwJSMZvlPEFG?authus
 # Baseline model:
 https://colab.research.google.com/drive/1LhoWsCVYdqGtV6paFzSTfdtikHlVd1fr?authuser=1
 
-
 # Providing first letter as a hint:
 https://colab.research.google.com/drive/1tRkVumY4AxH6QDqCiBn1djsQj5o8Hj4K?authuser=1
 
@@ -19,3 +18,8 @@ https://colab.research.google.com/drive/1THnMBgTeQeMKNmE0lNHCls_67y5DV4NU?authus
 # 2 stage model using intersecting clues using multiple candidate answers:
 https://colab.research.google.com/drive/1B7uV_WlVkvam9bnKnbOWrAVx7Hb8siDv?authuser=1
 
+# Length and Day of Week at the end as a hint:
+https://colab.research.google.com/drive/1DU-eNe0Z3TmiYRB4kMOPd4_0gcckg_qk?usp=sharing
+
+# Length and Day of Week at the beginning as a hint:
+https://colab.research.google.com/drive/1oKstf_JX2SsnlWD-fif6p59N35N-B_VT?usp=sharing
