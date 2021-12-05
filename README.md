@@ -14,6 +14,8 @@ https://colab.research.google.com/drive/1LhoWsCVYdqGtV6paFzSTfdtikHlVd1fr?authus
 https://colab.research.google.com/drive/1tRkVumY4AxH6QDqCiBn1djsQj5o8Hj4K?authuser=1
 
 # Intersecting clues:
+https://colab.research.google.com/drive/1THnMBgTeQeMKNmE0lNHCls_67y5DV4NU?authuser=1#scrollTo=z9JwlCcvoEff
 
-# Intersecting clues using multiple candidate answers
+# Intersecting clues using multiple candidate answers:
+
 
